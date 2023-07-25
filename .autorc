@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Mohanrajcr",
+  "repo": "container-y9n5coq",
+  "name": "Mohanrajcr",
+  "email": "crazymohan35@gmail.com",
+}
